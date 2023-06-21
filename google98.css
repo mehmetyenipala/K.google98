@@ -1,0 +1,34 @@
+body {
+    margin: 100px;
+    
+}
+.content {
+    padding: 3 auto 2 auto;
+    flex-direction: row;
+    overflow: auto;
+    flex-direction: column; padding: 2px;
+    border: 1px;
+}
+
+.card1 {
+       width: 37%;
+        background-color: #b55ae6;
+    float: left;
+}
+.card2 {
+    width: 20%;
+    padding-left: 2px;
+    
+   
+    background-color: #17dc55;
+  float: left;
+
+}
+.card3 {
+    width: 42%;
+    background-color: yellow;
+float: right;
+}
+.table {
+    background-color: #c8d0d5;
+}
